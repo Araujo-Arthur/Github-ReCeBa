@@ -1,0 +1,33 @@
+body {
+    height: 100%;
+    margin: 30;
+    background-color: #fffdd0;
+  }
+  
+#Receba {
+    background-color: rgb(125, 125, 200);
+    font-family: Arial;
+}
+
+.negresco{
+    font-weight: bold;
+}
+
+.italico{
+    font-style: italic;
+}
+#luva1{
+    border: solid 10px red;
+    border-radius: 200px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+}
+
+.luva{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
